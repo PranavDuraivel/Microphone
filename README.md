@@ -1,5 +1,9 @@
 # 🎙️ Electrostatic Microphone Design
 
+![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
+![COMSOL](https://img.shields.io/badge/Simulation-COMSOL-informational)
+![Project Type](https://img.shields.io/badge/Acoustic_Engineering-critical)
+
 This project presents the design, analysis, and modelling of an **electrostatic microphone capsule**. The microphone is tailored for omnidirectional speech recording with high sensitivity and clarity across the 20 Hz to 10 kHz range.
 
 ---

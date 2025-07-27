@@ -121,6 +121,14 @@ v_o(\omega) = -\frac{E_0}{s} \Xi_D(\omega)
 \frac{v_o(\omega)}{P_D(\omega)} = \frac{E_0 S}{s(j\omega R_M + K_M - \omega^2 M_M)}
 ```
 
+| Diaphragm Displacement |
+|------------------------|
+</div>
+<p align="center">
+  <img src="comsol/diaphragm_displacement.png" />
+  <br/><i>Peak displacement observed near resonant frequency</i>
+</p>
+
 ## 📐 Technical Summary
 
 | Component               | Description                               |

@@ -54,6 +54,11 @@ S \approx \frac{E_0}{s} \cdot \frac{a^2}{8\sigma_0} = 0.05625 \, \text{V/Pa}
 ```math
 S_{dB} = 20 \log_{10}(S) = -25 \, \text{dB (ref 1 V/Pa)}
 ```
+### ⚙️ Microphone Sensitivity
+
+| ![Real/Imag Impedance](./figures/sensitivity.png) |
+|:--:|
+| *Figure: Frequency response of the microphone showing sensitivity (in dB re 1 V/Pa).* |
 
 ---
 
